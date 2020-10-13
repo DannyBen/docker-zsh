@@ -1,2 +1,2 @@
-ZSH container for testing
+ZSH on Alpine
 ==================================================
