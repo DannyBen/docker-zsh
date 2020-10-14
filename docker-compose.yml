@@ -5,4 +5,4 @@ services:
     build: .
     image: dannyben/zsh
     volumes:
-      - .:/app
+      - ./app:/app
