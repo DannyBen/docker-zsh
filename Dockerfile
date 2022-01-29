@@ -8,4 +8,4 @@ COPY app/.zshrc /root/
 COPY app .
 RUN bash bootstrap.sh
 
-ENTRYPOINT zsh
+CMD ["zsh"]
